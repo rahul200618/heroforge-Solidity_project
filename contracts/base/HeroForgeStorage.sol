@@ -8,8 +8,6 @@ import "@openzeppelin/contracts/access/Ownable.sol";
  * @title  HeroForgeStorage
  * @notice Base contract — holds all shared state, structs, errors, events,
  *         constants, and access-control modifiers used by every layer above.
- *         Abstract: never deployed on its own.
- *
  * Inheritance chain
  * ─────────────────
  *   HeroForgeStorage
