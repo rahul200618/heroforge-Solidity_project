@@ -145,3 +145,18 @@ npx hardhat run scripts/deploy.js --network sepolia
 | DAO governance for game master rotation | Adds a voting layer; `setGameMaster()` via owner is sufficient |
 | Multi-game portability | Cross-contract item use requires a registry pattern — future work |
  
+
+## Acknowledgments
+
+- **[OpenZeppelin Contracts](https://openzeppelin.com/contracts/)** — For battle-tested ERC-721 and Ownable standard implementations.
+- **[Hardhat](https://hardhat.org/)** — For the Ethereum development environment, local test node, and test runner.
+- **[Remix IDE](https://remix.ethereum.org/)** — For interactive prototyping, debugging, and testing Solidity contracts.
+- **[MetaMask](https://metamask.io/)** — For testnet wallet management and transaction signing.
+- **[PublicNode](https://publicnode.com/)** — For reliable Sepolia public RPC endpoint access.
+- **[Etherscan](https://etherscan.io/)** — For contract verification and on-chain transaction exploration.
+- **Solidity Sprint** — For the project specifications, guidelines, and learning resources.
+- **AI Assistance** — Claude was used as a development assistant during this project for:
+  - Generating initial project scaffolding and boilerplate (Hardhat config, folder structure).
+  - Reviewing test coverage against specification invariants.
+
+> All design decisions, the specification, and the final contract logic were written by me and reviewed, understood, and approved line by line and checked with AI.
