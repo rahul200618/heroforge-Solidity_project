@@ -2,7 +2,7 @@
 
 ## Project Scope Document
 
-**Author:** Rahul · **Contract:** `HeroForge.sol` · **Network:** Sepolia · **Framework:** Hardhat + OpenZeppelin
+**Author:** Rahul A· **Contract:** `HeroForge.sol` · **Network:** Sepolia · **Framework:** Hardhat + OpenZeppelin
 
 ---
 

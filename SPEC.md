@@ -2,7 +2,7 @@
 
 > Own your character. Own your progress.
 
-**Author:** Rahul  
+**Author:** Rahul A
 **Contract:** `HeroForge.sol`  
 **Network:** Sepolia Testnet  
 **Framework:** Hardhat + OpenZeppelin  
